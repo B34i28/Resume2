@@ -57,7 +57,7 @@ export default function Contact() {
   };
 
   return (
-    <div  className="xl:mt-12 xl:flex-row flex-col bg-slate-400 my-5 w-full h-full px-16 overflow-hidden">
+    <div id="contact" className="xl:mt-12 xl:flex-row flex-col bg-cyan-600 my-5 w-full h-full px-16 overflow-hidden">
       <div>
         <p className="text-2xl">Get in touch</p>
         <h3 className="text-5xl font-bold">Contact</h3>

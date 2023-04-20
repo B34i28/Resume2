@@ -3,10 +3,7 @@ import Image from "next/image";
 
 export default function About() {
   return (
-    <section
-      
-      className="relative justify-items-center w-full mt-5 px-8"
-    >
+    <section id="about" className="relative justify-items-center w-full mt-5 px-8">
       <div className="px-20 max-w-screen-lg flex flex-col justify-center w-full h-full">
         <h1 className="font-bold text-4xl my-8 underline">Introduction</h1>
         <p className="text-2xl">

@@ -36,7 +36,7 @@ export default function Experience() {
   ];
 
   return (
-    <section className="w-full md:h-screen">
+    <section id="experience" className="w-full md:h-screen">
       <div className="max-w-screen-lg p-4 my-10 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
           <p className="text-4xl font-bold">Experience</p>

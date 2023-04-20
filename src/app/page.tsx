@@ -7,7 +7,7 @@ import Skills from './component/Skills'
 
 export default function Home() {
   return (
-    <div>
+    <div id='home' className="bg-cyan-600">
     <Hero />
     <Skills />
     <Experience />

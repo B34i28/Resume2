@@ -71,7 +71,7 @@ export default function Skills() {
   ];
 
   return (
-    <section className="relative w-full h-sreen">
+    <section id="skills" className="relative w-full h-sreen">
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-ful h-full">
         <div>
           <p className="text-4xl font-bold p-2">Skills</p>
